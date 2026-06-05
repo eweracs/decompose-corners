@@ -1,3 +1,3 @@
 # decompose-corners
 
-Short Glyphs to decompose corner components.
+Short Glyphs filter to decompose corner components.
