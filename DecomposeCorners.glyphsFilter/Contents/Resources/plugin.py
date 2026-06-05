@@ -30,7 +30,7 @@ class DecomposeCorners(FilterWithoutDialog):
 	def filter(self, layer, inEditView, customParameters):
 		if not layer.hints:
 			return
-		l.decomposeCorners()
+		layer.decomposeCorners()
 
 	@objc.python_method
 	def __file__(self):
