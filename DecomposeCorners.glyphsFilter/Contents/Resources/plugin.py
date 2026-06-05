@@ -17,7 +17,7 @@ from GlyphsApp import *
 from GlyphsApp.plugins import *
 
 
-class decomposeCorners(FilterWithoutDialog):
+class DecomposeCorners(FilterWithoutDialog):
 	
 	@objc.python_method
 	def settings(self):
